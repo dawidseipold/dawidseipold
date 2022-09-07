@@ -2,7 +2,13 @@
 
 ###
 
-<p align="left">👋 My name is Dawid and I'm a frontend developer from Poland.</p>
+<p align="left">
+Hi, my name is Dawid! As a Front End developer with 1 year of professional experience, I help to create static and dynamic websites, as well as full-fledged web applications. In the past, I have worked on a number of projects such as: cimat.pl, planikafires.pl, talem.eu, talem.eu/blog.
+
+For my work I typically work with technologies like: Javascript, React, Next.js, Typescript, Tailwind, Sass and Supabase. But I often use a handful of other languages, frameworks and libraries in my projects.
+
+I am excited about opportunities in which I am able to create something new, interesting, and challenging. Furthermore, I am open to learning new things outside of my expertise.
+</p>
 
 ###
 
@@ -10,7 +16,7 @@
 
 ###
 
-<p align="left">✨ Started coding in 2021<br>📚 I'm currently studying like crazy 🤯<br>🎯 I want to become a successful developer and create my dream project<br>🎲 I love playing basketball 🏀 and riding on my bike 🚴</p>
+<p align="left">✨ Started coding in 2021<br>📚 I'm currently studying like crazy 🤯<br>🎯 I want to become a successful fullstack developer and create my dream project<br>🎲 I love basketball 🏀</p>
 
 ###
 
