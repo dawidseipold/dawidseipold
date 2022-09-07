@@ -7,7 +7,7 @@ My name is Dawid and I'm currently based in Poland. As a Front End developer wit
 
 For my work I typically work with technologies like: Javascript, React, Next.js, Typescript, Tailwind, Sass and Supabase. But I often use a handful of other languages, frameworks and libraries in my projects.
 
-I am excited about opportunities in which I am able to create something new, interesting, and challenging. Furthermore, I am open to learning new things outside of my expertise.
+I look forward to opportunities that allow me to come up with something innovative, intriguing, and challenging. I am also open to learning new things outside of my area of expertise.
 </p>
 
 ###
