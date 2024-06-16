@@ -5,7 +5,7 @@
 <p align="left">
 My name is Dawid and I'm currently based in Poland. As a Front End developer with 1 year of professional experience, I help to create static and dynamic websites, as well as fully-fledged web applications. In the past, I have worked on a number of projects such as: cimat.pl, planikafires.pl, talem.eu, talem.eu/blog.
 
-For my work I typically work with technologies like: Javascript, React, Next.js, Typescript, Tailwind, Sass and Supabase. But I often use a handful of other languages, frameworks and libraries in my projects.
+For my work I typically work with technologies like: Javascript, Typescript, React, NextJS, Svelte, SvelteKit, Astro, Tailwind, Sass and many more. I often use a handful of other languages, frameworks and libraries in my projects.
 
 I look forward to opportunities that allow me to come up with something innovative, intriguing, and challenging. I am also open to learning new things outside of my area of expertise.
 </p>
