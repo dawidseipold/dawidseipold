@@ -16,7 +16,11 @@ I look forward to opportunities that allow me to come up with something innovati
 
 ###
 
-<p align="left">🌐 [I have a personal website](https://www.dawidseipold.com)<br>✨ Started coding in 2021<br>📚 I'm currently studying like crazy 🤯<br>🎯 I want to become a successful fullstack developer and create my dream project<br>🎲 I love powerlifting and mountain biking 🏋️</p>
+* 🌐 [I have a personal website](https://www.dawidseipold.com)
+* ✨ Started coding in 2021
+* 📚 I'm currently studying like crazy 🤯
+* 🎯 I want to become a successful fullstack developer and create my dream project
+* 🎲 I love powerlifting and mountain biking 🏋
 
 ###
 
