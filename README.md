@@ -12,7 +12,7 @@ I look forward to opportunities that allow me to come up with something innovati
 
 ###
 
-<h2 align="left">About me</h2>
+<h2 align="left">Some Facts About me</h2>
 
 ###
 
